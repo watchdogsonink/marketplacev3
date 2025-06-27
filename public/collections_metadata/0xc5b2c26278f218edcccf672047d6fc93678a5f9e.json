@@ -1,0 +1,46 @@
+[
+  {
+    "animation_url": null,
+    "external_app_url": null,
+    "id": "1",
+    "image_url": "https://bafybeiehb6pjwf4zneoviecwfbxalwugbgpcvzbvjwnlrslbixo6ojceju.ipfs.flk-ipfs.xyz/1.png",
+    "is_unique": true,
+    "media_type": null,
+    "media_url": "https://bafybeiehb6pjwf4zneoviecwfbxalwugbgpcvzbvjwnlrslbixo6ojceju.ipfs.flk-ipfs.xyz/1.png",
+    "metadata": {
+      "attributes": [],
+      "description": "",
+      "id": 1,
+      "image": "https://bafybeiehb6pjwf4zneoviecwfbxalwugbgpcvzbvjwnlrslbixo6ojceju.ipfs.flk-ipfs.xyz/1.png",
+      "name": "Ink Warrior #1"
+    },
+    "owner": {
+      "ens_domain_name": null,
+      "hash": "0x94407F9E74324d8A544d9DaF4f4b3F8db3E302A1",
+      "implementations": [],
+      "is_contract": false,
+      "is_scam": false,
+      "is_verified": false,
+      "metadata": null,
+      "name": null,
+      "private_tags": [],
+      "proxy_type": null,
+      "public_tags": [],
+      "watchlist_names": []
+    },
+    "thumbnails": null,
+    "token": {
+      "address": "0x7067Aa4B474bAd7aE0Bda76dB757DE49076fD5Af",
+      "circulating_market_cap": null,
+      "decimals": null,
+      "exchange_rate": null,
+      "holders": "14",
+      "icon_url": null,
+      "name": "InkWarrior",
+      "symbol": "InkWarrior",
+      "total_supply": "145",
+      "type": "ERC-721",
+      "volume_24h": null
+    }
+  }
+]
